@@ -1,0 +1,2 @@
+ssh-keygen
+3 times enter then take key and paste in USER/.ssh/authorized_keys
